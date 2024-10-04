@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm FallCIcada</h1>
 <h1 align="center">你好，我是FallCicada</h1>
-<h3 align="center">A passionate frontend developer from Chinese</h3>
+<h3 align="center">A passionate frontend developer from Chinese:flag_china: ：flag_china：</h3>
 
 
 <h3 align="left">Connect with me:</h3>
