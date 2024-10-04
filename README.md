@@ -8,13 +8,12 @@
 
 
 - 📫 How to reach me **FallCicada@foxmail.com**
-- 📫如何联系我 **FallCicada@foxmail.com**
+
 
 - ⚡ Fun fact **I'm just a college student, but I hope to learn more here.**
 
 
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">联系我们</h3>
+<h3 align="left">Connect with me:FallCIcada@foxmail.com</h3>
 <p align="left">
 </p>
 
