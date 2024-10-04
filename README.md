@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm FallCIcada</h1>
 <h1 align="center">你好，我是FallCicada</h1>
 <h3 align="center">A passionate frontend developer from Chinese</h3>
-<h3 align="center">来自印度的热情的前端开发人员</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">联系我们</h3>
