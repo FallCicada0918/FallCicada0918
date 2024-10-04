@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 <!--
 **FallCicada0918/FallCicada0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
