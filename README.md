@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm FallCIcada</h1>
-<h1 align="center">你好，我是FallCicada</h1>
-<h3 align="center">A passionate frontend developer from Chinese</h3>
-<h3 align="center">一位热情的中国前端开发人员</h3>
+
+<h3 align="center">An ordinary programmer from China</h3>
+
 
 - 🔭 I wish I could work at DJI Innovations. [DJI](https://www.dji.com/cn)
 
