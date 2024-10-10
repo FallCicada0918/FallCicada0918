@@ -1,7 +1,7 @@
-<turtle>
+ <!--<turtle>
   <!-- 背景图片 -->
-  <image src="https://github.com/FallCicada0918/FallCicada0918/blob/main/image/c12e54e6b13160e0ea78b22b19c5bad.jpg" />
-</turtle>
+  <!--<image src="https://github.com/FallCicada0918/FallCicada0918/blob/main/image/c12e54e6b13160e0ea78b22b19c5bad.jpg" />
+</turtle> -->
 <!-- 添加剧中图片 -->
 <div align="center">
     <img src="https://github.com/FallCicada0918/FallCicada0918/blob/main/image/123.png" alt="Centered Image" width="200" height="200" style="border-radius: 50%;"/>
