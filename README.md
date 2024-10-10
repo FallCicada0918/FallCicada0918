@@ -4,7 +4,7 @@
 </turtle>
 <!-- 添加剧中图片 -->
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/110640475?s=96&v=4" alt="Centered Image" width="200" height="200" style="border-radius: 50%;"/>
+    <img src="https://github.com/FallCicada0918/FallCicada0918/blob/main/image/123.png" alt="Centered Image" width="200" height="200" style="border-radius: 50%;"/>
 </div>
 <!-- 标题部分 -->
 <h1 align="center">Hi 👋, I'm FallCIcada</h1>
