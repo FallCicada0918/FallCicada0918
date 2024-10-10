@@ -1,6 +1,6 @@
 <turtle>
   <!-- 背景图片 -->
-  <image src="https://cdn.jsdelivr.net/gh/FallCicada/FallCicada/images/20231009162406.png" />
+  <image src="[https://cdn.jsdelivr.net/gh/FallCicada/FallCicada/images/20231009162406.png](https://github.com/FallCicada0918/FallCicada0918/blob/main/image/c12e54e6b13160e0ea78b22b19c5bad.jpg)" />
 </turtle>
 <!-- 添加剧中图片 -->
 <div align="center">
