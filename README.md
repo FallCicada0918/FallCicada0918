@@ -1,3 +1,7 @@
+<turtle>
+  <!-- 背景图片 -->
+  <image src="https://cdn.jsdelivr.net/gh/FallCicada/FallCicada/images/20231009162406.png" />
+</turtle>
 <!-- 添加剧中图片 -->
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/110640475?s=96&v=4" alt="Centered Image" width="200" height="200" style="border-radius: 50%;"/>
