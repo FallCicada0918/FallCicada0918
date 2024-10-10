@@ -1,12 +1,13 @@
+<!-- 添加剧中图片 -->
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/110640475?s=96&v=4" alt="Centered Image" width="200" height="200"/>
+</div>
 <!-- 标题部分 -->
 <h1 align="center">Hi 👋, I'm FallCIcada</h1>
 <!-- 副标题部分 -->
 <h3 align="center">An ordinary programmer from China</h3>
 
-<!-- 添加剧中图片 -->
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/110640475?s=96&v=4" alt="Centered Image" width="200" height="200"/>
-</div>
+
 
 <!-- 工作愿望 -->
 - 🔭 I wish I could work at DJI Innovations. [DJI](https://www.dji.com/cn)
